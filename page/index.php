@@ -39,7 +39,7 @@ require_once '../helper/aksibtn.php';
         </nav>
     </header>
     <div class="container">
-        <h3 class="text-center">Inventory Data</h3>
+        <h3 class="text-center">Inventory Data asdasd</h3>
         <div class="row">
             <div class="col-md-8 mx-auto">
                 <div class="card">
